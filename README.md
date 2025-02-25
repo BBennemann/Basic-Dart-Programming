@@ -9,7 +9,7 @@ Some of the topics covered include:
 - Simple arithmetic expressions.
 - Declaration and manipulation of lists.
 - Using functions and recursive functions.
-***
+  
 These projects and exercises are located in the bin folder, divided into modules and main projects.
 ***
 # Projeto em dart
@@ -23,5 +23,5 @@ Alguns dos assuntos abordados são:
 - Expressões aritimeticas simples.
 - Declaração e manipulação de listas.
 - Uso de funções e funções recursivas.
-***
+
 Esses projetos e exercicios estão localizados na pasta bin, divididos em módulos e projetos principais.
